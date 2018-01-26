@@ -1,0 +1,25 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "jsx": "react",
+    "lib": [
+      "dom",
+      "es2016"
+    ],
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "outDir": "dist",
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "target": "es5",
+    "experimentalDecorators": false,
+    "downlevelIteration": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
